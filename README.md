@@ -2,6 +2,8 @@
 The second soundfont in the Color Piano Series.
 A soft upright piano for free use in Black MIDI videos, editing, or other uses.
 
+Soundfont Demonstration : https://youtu.be/K4Icy58bFxw
+
 Contains a total of :
 - 30 samples (A, C, D#, F#)
 - 2 versions to choose from
