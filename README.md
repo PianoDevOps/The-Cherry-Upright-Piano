@@ -6,11 +6,9 @@ Soundfont Demonstration : https://youtu.be/K4Icy58bFxw
 
 Contains a total of :
 - 30 samples (A, C, D#, F#)
-- 2 versions to choose from
+- 3 versions to choose from
 - infinite vol env release for keys 96+
-
-Features to add
-- Velocity layers
+- 7 velocity layers + no vel layers version
 
 # How To Download
 (copied from Indigo Upright Piano, still the same )
